@@ -1,0 +1,16 @@
+python-dotenv
+langchain_community
+pinecone
+langchain_huggingface
+
+pinecone_text
+
+sentence-transformers
+
+pinecone>=6.0.2
+pinecone-text
+langchain
+langchain-huggingface
+sentence-transformers
+transformers
+torch
